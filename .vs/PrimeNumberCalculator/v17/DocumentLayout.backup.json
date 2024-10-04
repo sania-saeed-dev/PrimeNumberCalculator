@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B Projects\\PrimeNumberCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF091A99-52D0-43BD-BAC0-824A9A36FCED}|PrimeNumberCalculator\\PrimeNumberCalculator.vcxproj|D:\\C\u002B\u002B Projects\\PrimeNumberCalculator\\PrimeNumberCalculator\\PrimeNumberCalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF091A99-52D0-43BD-BAC0-824A9A36FCED}|PrimeNumberCalculator\\PrimeNumberCalculator.vcxproj|solutionrelative:PrimeNumberCalculator\\PrimeNumberCalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrimeNumberCalculator.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B Projects\\PrimeNumberCalculator\\PrimeNumberCalculator\\PrimeNumberCalculator.cpp",
+              "RelativeDocumentMoniker": "PrimeNumberCalculator\\PrimeNumberCalculator.cpp",
+              "ToolTip": "D:\\C\u002B\u002B Projects\\PrimeNumberCalculator\\PrimeNumberCalculator\\PrimeNumberCalculator.cpp*",
+              "RelativeToolTip": "PrimeNumberCalculator\\PrimeNumberCalculator.cpp*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-04T06:57:16.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
